@@ -1,0 +1,12 @@
+name: yelp_fitness_shiny
+title: yelp_fitness_shiny
+username:
+account: sfarhoumand
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2479581
+bundleId: 3392495
+url: https://sfarhoumand.shinyapps.io/yelp_fitness_shiny/
+when: 1594757684.05038
+asMultiple: FALSE
+asStatic: FALSE
